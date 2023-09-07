@@ -1,2 +1,2 @@
-from .linkedlist import LinkedList
-from .stack import Stack
+from .linkedlist import LinkedList, DoubleLinkedList
+
