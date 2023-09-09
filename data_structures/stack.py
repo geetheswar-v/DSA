@@ -33,7 +33,7 @@ class ListStack:
     def pop(self):
         if self.isempty():
             return None
-        return self.pop()
+        return self.__stack.pop()
 
     def top(self):
         if self.isempty():
